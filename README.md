@@ -5,7 +5,7 @@ This is the final project of the course "Introduction to programming" at CCU COM
     .
     ├── game.c             # source code
     ├── game.exe           # complied executable
-    ├── stage1.txt         # nesssaary file for this program
+    ├── stage1.txt         # level file
     └── README.md
 
 ## In-game Screenshots

@@ -1,4 +1,4 @@
-# GAME
+# c-game, A Game Written in C Language
 
 This is the final project of the course "Introduction to programming" at CCU COMM.
 

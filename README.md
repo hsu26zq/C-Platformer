@@ -8,5 +8,5 @@ This is the final project of the course "Introduction to programming" at CCU COM
     └── README.md
 
 # In-game Screenshots
-![Screenshot 2024-05-08 003335](https://github.com/hsu26zq/game/assets/95536686/18cb9bbf-6a54-4532-a995-a903c31686eb)
-![Picture1](https://github.com/hsu26zq/game/assets/95536686/6a67e5b9-430d-4f2b-a873-a376a8c4ec8b)
+![Picture1](https://github.com/hsu26zq/game/assets/95536686/7bf6f8e2-8b7f-44ee-9e2b-c511091fc882)
+![Screenshot 2024-05-08 003335](https://github.com/hsu26zq/game/assets/95536686/50c8d3e0-09ce-42e1-8071-efdc21927c89)

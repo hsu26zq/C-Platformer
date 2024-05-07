@@ -2,7 +2,7 @@
 
 This is the final project of the course "Introduction to programming" at CCU COMM.
 
-Completion Date: *2023-12*
+Completion Date: *2021-05*
 
 ## Structure
     .

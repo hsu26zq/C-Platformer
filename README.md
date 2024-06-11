@@ -16,4 +16,4 @@ Completion Date: *2021-05*
 ![Screenshot 2024-05-08 003335](https://github.com/hsu26zq/game/assets/95536686/50c8d3e0-09ce-42e1-8071-efdc21927c89)
 
 ## Note
-This program is extremely unstable and buggy as it was written by two beginners.
+This program is extremely unstable and buggy as it was written by beginners.

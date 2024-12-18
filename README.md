@@ -1,4 +1,4 @@
-## A Game Written in C Language
+## A Platform Game Written in C
 
 This is the final project of the course 'Introduction to programming' at CCU COMM.
 

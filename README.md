@@ -6,7 +6,7 @@ Completion Date: *2021-05*
 
 ## Structure
     .
-    ├── demo               # files for demo
+    ├── demo               # demo version
     ├── game.c             # source code
     ├── game.exe           # complied executable
     ├── stage1.txt         # level file

@@ -1,9 +1,4 @@
 ## A Platform Game Written in C
-
-This is the final project of the course 'Introduction to programming' at CCU COMM.
-
-Completion Date: *2021-05*
-
 ## Structure
     .
     ├── demo               # demo version
@@ -16,6 +11,7 @@ Completion Date: *2021-05*
 ![Picture1](https://github.com/hsu26zq/game/assets/95536686/7bf6f8e2-8b7f-44ee-9e2b-c511091fc882)
 ![Screenshot 2024-05-08 003335](https://github.com/hsu26zq/game/assets/95536686/50c8d3e0-09ce-42e1-8071-efdc21927c89)
 
+## Demo
 <video src="https://github.com/user-attachments/assets/838a115d-7123-416e-8650-18a1a36f3257"></video>
 
 ## Note

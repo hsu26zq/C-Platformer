@@ -13,6 +13,3 @@
 
 ## Demo
 <video src="https://github.com/user-attachments/assets/838a115d-7123-416e-8650-18a1a36f3257"></video>
-
-## Note
-This program is extremely unstable and buggy as it was written by beginners.
